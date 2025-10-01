@@ -19,7 +19,7 @@ A powerful and intelligent Node.js tool to discover the email address of a perso
 
 1.  Clone the repository:
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/adverot/EmailFinder
     cd emailfinder
     ```
 
